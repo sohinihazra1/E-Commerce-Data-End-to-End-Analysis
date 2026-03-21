@@ -1,6 +1,6 @@
 # E-Commerce-Data-End-to-End-Analysis
--OVERVIEW
--This project demonstrates an end to end data analysis process on an ecommerce dataset. The analysis starts from raw data and moves through data assessment, data cleaning, exploratory data analysis, and final visualization. The goal is to understand customer behavior, product trends, and operational performance through structured analysis.
+--OVERVIEW
+--This project demonstrates an end to end data analysis process on an ecommerce dataset. The analysis starts from raw data and moves through data assessment, data cleaning, exploratory data analysis, and final visualization. The goal is to understand customer behavior, product trends, and operational performance through structured analysis.
 
 -DATASET
 -The dataset consists of multiple raw CSV files containing information about customers, orders, products, payments, reviews, and logistics. These files were used in their original form as the starting point of the analysis.
